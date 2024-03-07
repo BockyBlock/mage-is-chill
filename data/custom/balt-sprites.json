@@ -141,5 +141,32 @@
             "2"
         ],
         "tiling": "-1"
+    },
+    {
+        "name": "jar",
+        "sprite": "jar",
+        "color": [
+            "4",
+            "4"
+        ],
+        "tiling": "-1"
+    },
+    {
+        "name": "text_jar",
+        "sprite": "text_jar",
+        "color": [
+            "4",
+            "4"
+        ],
+        "tiling": "-1"
+    },
+    {
+        "name": "text_betabeta",
+        "sprite": "text_betabeta",
+        "color": [
+            "5",
+            "4"
+        ],
+        "tiling": "-1"
     }
 ]
