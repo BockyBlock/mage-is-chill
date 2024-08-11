@@ -252,7 +252,7 @@
         "tiling": "2"
     },
     {
-        "name": "bubbub",
+        "name": "bubbub_old",
         "sprite": "bubbub",
         "color": [
             "1",
@@ -1863,7 +1863,7 @@
         "tiling": "-1"
     },
     {
-        "name": "pft",
+        "name": "pft_old",
         "sprite": "pft",
         "color": [
             "0",
@@ -2644,5 +2644,23 @@
             "4"
         ],
         "tiling": "-1"
+    },
+    {
+        "name": "fofad",
+        "sprite": "fofad",
+        "color": [
+            "1",
+            "4"
+        ],
+        "tiling": "2"
+    },
+    {
+        "name": "bubbub",
+        "sprite": "bubbub2",
+        "color": [
+            "1",
+            "4"
+        ],
+        "tiling": "2"
     }
 ]
